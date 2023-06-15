@@ -1,0 +1,9 @@
+.img {
+    height: 100%;
+    left: 50%;
+    object-fit: cover;
+    object-position: 25% 37px;
+    position: absolute;
+    transform: scale(115%) translate(-50%);
+    width: 100%;
+}
