@@ -20,10 +20,20 @@
     text-align: center;
     padding-top: 60px;
     padding-left: 60px;
-    padding-right: 60px;    
+    padding-right: 60px;
+    border-radius: 2px;
+     
 }
 
 .input-text {
     width: 100%;
     height: 30px;
+    padding: 10px 10px;
+    font-size: 1.0em;
+    border: none;
+    border-radius: 2px;
+}
+
+.Search button {
+    padding: 10px 10px;
 }
