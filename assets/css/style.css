@@ -6,4 +6,24 @@
     position: absolute;
     transform: scale(115%) translate(-50%);
     width: 100%;
+    z-index: -1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.Search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;    
+}
+
+.input-text {
+    width: 100%;
+    height: 30px;
 }
