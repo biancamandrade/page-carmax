@@ -6,4 +6,17 @@
     position: absolute;
     transform: scale(115%) translate(-50%);
     width: 100%;
+    z-index: -1;
 }
+
+.Titulo {
+    color: white;
+    
+}
+
+.text {
+    color: white;
+
+}
+
+
