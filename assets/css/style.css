@@ -6,4 +6,20 @@
     position: absolute;
     transform: scale(115%) translate(-50%);
     width: 100%;
+    z-index: -1;
 }
+
+.parent{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5px;
+}
+
+div.sticky {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    bottom: 5px;
+    border: 3px solid black;
+  } 
